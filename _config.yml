@@ -1,15 +1,7 @@
-layout_spectrum: 1
-favicon: null
 name: Existential Inquiry Radio
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.99148
+typography_spectrum: 0.206383
 collections:
   - index:
       navigable: true
@@ -23,18 +15,26 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  version: null
-  bucket: null
   domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.5716863393317908
-  lightness: 0.2212766
-  saturation: 0.3638298
-  rhythmicContrast: 0.7106383
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-typography_spectrum: 0.206383
+    - '#221b45'
+    - '#eac655'
+    - '#605b84'
+    - '#bf7f27'
+    - '#443e11'
+  brandStrength: 0.625
+  lightness: 0.1875
+  saturation: 0.75
+  rhythmicContrast: 0.75
+purpose: []
