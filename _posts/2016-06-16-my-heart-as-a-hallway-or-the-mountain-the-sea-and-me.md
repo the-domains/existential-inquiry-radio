@@ -9,22 +9,22 @@ description: >-
   this life is a gift to be received, loved, and let go. Ideally, I welcome each
   experience to enter, pass through and exit with kindness and free of judgment.
   Gratitude, Grace and Generosity brace the structure and hold this passage
-  open. My existence takes on a mythical Flow.  
-datePublished: '2016-06-16T08:58:09.155Z'
-dateModified: '2016-06-16T08:58:05.117Z'
+  open. My existence takes on a mythical Flow. 
+datePublished: '2016-06-16T09:04:15.398Z'
+dateModified: '2016-06-16T09:03:58.152Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-16-my-heart-as-a-hallway-or-the-mountain-the-sea-and-me.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-my-heart-as-a-hallway-or-the-mountain-the-sea-and-me.md
 url: my-heart-as-a-hallway-~or~-the-mountain-the-sea-and-me/index.html
 _type: Article
 
 ---
-## My Heart as a Hallway  
-~OR~  
-The Mountain, the Sea, and Me
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af5f243d-f761-4083-bdd7-c0c8cb447c1c.jpg)
+
+## ~or~ The Mountain, the Sea, and Me
 
 I've recently begun to think of my heart as a hallway -as if **e****very moment of this life is a gift to be received, loved, and let go. **Ideally, I welcome each experience to enter, pass through and exit with kindness and free of judgment. Gratitude, Grace and Generosity brace the structure and hold this passage open. My existence takes on a mythical Flow. 
 
