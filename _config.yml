@@ -1,7 +1,7 @@
 name: Existential Inquiry Radio
 favicon: null
 layout_spectrum: 0.99148
-typography_spectrum: 0.79126
+typography_spectrum: 0.07362
 collections:
   - index:
       navigable: true
